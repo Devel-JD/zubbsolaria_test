@@ -14,3 +14,6 @@ Password: 123567
 You can login facebook with the list of users above and the same password every account. So, you can run this php laravel test.
 
 THANK YOU!!!! :D
+
+
+P.S. You may find the database information in '.env' file.
